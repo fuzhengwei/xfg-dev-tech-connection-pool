@@ -1,0 +1,5 @@
+version: '3'
+services:
+  # ab -n 1 -c 1 https://baidu.com
+  ApacheBench:
+    image: jordi/ab
