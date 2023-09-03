@@ -16,7 +16,6 @@ import java.util.Date;
 import java.util.UUID;
 
 /**
- * https://www.jianshu.com/p/ff412dfd852f
  * https://httpd.apache.org/docs/2.4/programs/ab.html
  */
 @Slf4j
